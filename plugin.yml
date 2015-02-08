@@ -1,0 +1,4 @@
+name: Leather
+version: 1.0
+main: baitercell.leather.Leather
+description: Gives Leather
